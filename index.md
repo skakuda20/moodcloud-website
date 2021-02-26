@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>MoodCloud</title>
+  <meta name="description" content="MoodCloud Official Website">
+  <meta name="author" content="MoodCloud">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="../css/normalize.css">
+  <link rel="stylesheet" href="../css/skeleton.css">
+  <link rel='stylesheet' href='../css/style.css'>
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="../images/favicon.png">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class='navbar'>
+      <div class='container'>
+        <div class='row'>
+          <div class='twelve columns'>
+            <ul class='navbar-list'>
+              <li class='navbar-item'>
+                <a class='navbar-link' href='#about'>ABOUT</a>
+              </li>
+              <li class='navbar-item'>
+                <a class='navbar-link' href='#Features'>FEATURES</a>
+              </li>
+              <li class='navbar-item'>
+                <a class='navbar-link' href='#contact_us'>CONTACT US</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id='head-spacer'>
+      <div class='container'>
+      </div>
+    </div>
+
+
+    <div id='home'>
+      <div class='container'>
+        <div class='row'>
+          <div class='five columns' id='slogan'>
+            <h1>MENTAL HEALTH JUST GOT SMARTER</h1>
+          </div>
+          <div class='seven columns'>
+            <img class='u-pull-right' src='../images/logo.png'>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="container">
+    <div class="row">
+      <div class="one-half column" style="margin-top: 25%">
+        <h4>Basic Page</h4>
+        <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
+      </div>
+    </div>
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
