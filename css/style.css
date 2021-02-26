@@ -26,13 +26,20 @@
 .navbar-link.active {
   color: #33C3F0; }
 
+
+.homepage-title{
+  margin: 0;
+}
+
+
+
 #head-spacer{
 
   height: 6.5rem;
 }
 
 #slogan{
-  margin-top: 7rem;
+  margin-top: 12rem;
 }
 
 #homepagelogo{
