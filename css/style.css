@@ -3,6 +3,7 @@
 #nav-row{
   border-bottom: 2.5px solid #eee;
   display: block;
+  width:100%;
 }
 .navbar,
 .navbar > .container {
@@ -40,6 +41,10 @@
 #head-spacer{
 
   height: 2rem;
+}
+
+#home{
+  width:100%;
 }
 
 #slogan{
