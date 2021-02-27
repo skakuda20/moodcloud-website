@@ -70,8 +70,10 @@
 
 
 #about-us h1{
+  width:90%;
   color: white;
   margin-left:2rem;
+  margin-left:7%;
 }
 
 #about-us h3{
