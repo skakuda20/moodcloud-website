@@ -1,6 +1,6 @@
 .navbar + .docs-section {
   border-top-width: 0; }
-.row{
+#nav-row{
   border-bottom: 2.5px solid #eee;
   display: block;
 }
@@ -26,6 +26,10 @@
 .navbar-link.active {
   color: #33C3F0; }
 
+.navbar a{
+  font-size: 1.5rem;
+}
+
 
 .homepage-title{
   margin: 0;
@@ -43,4 +47,39 @@
 }
 
 #homepagelogo{
+}
+
+#head-about-spacer{
+  height:7rem;
+}
+
+#about-us-top-spacer{
+  height:2rem;
+}
+
+
+#about-us{
+  height:40rem;
+  background-size:100%;
+  background-repeat: no-repeat;
+  border-radius: 25px;
+  background-color: #87CEFA;
+  background-position: center bottom;
+}
+
+
+#about-us h1{
+  color: white;
+}
+
+#about-us h3{
+  color: white;
+}
+
+
+#about-us-row{
+margin-top:2rem;
+margin-left:6rem;
+margin-right:3rem;
+height:42rem;
 }
