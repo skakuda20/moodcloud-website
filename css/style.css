@@ -59,7 +59,7 @@
 
 
 #about-us{
-  height:40rem;
+  height:100%;
   background-size:100%;
   background-repeat: no-repeat;
   border-radius: 25px;
@@ -70,14 +70,16 @@
 
 #about-us h1{
   color: white;
+  margin-left:2rem;
 }
 
 #about-us h3{
   color: white;
+  margin-left:2rem;
 }
 
 
-#about-us-row{
+#about-us-texts{
 margin-top:2rem;
 margin-left:6rem;
 margin-right:3rem;
